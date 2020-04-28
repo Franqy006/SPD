@@ -1,0 +1,12 @@
+﻿  Źródło.cpp
+D:\OneDrive\studia\SPD\prog_dyn\prog_dyn\Źródło.cpp(74,20): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+D:\OneDrive\studia\SPD\prog_dyn\prog_dyn\Źródło.cpp(96,16): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+D:\OneDrive\studia\SPD\prog_dyn\prog_dyn\Źródło.cpp(97,22): warning C4244: "argument": konwersja z "double" do "_Ty", możliwa utrata danych
+          with
+          [
+              _Ty=int
+          ]
+D:\OneDrive\studia\SPD\prog_dyn\prog_dyn\Źródło.cpp(115,80): warning C4244: "argument": konwersja z "double" do "const unsigned int", możliwa utrata danych
+D:\OneDrive\studia\SPD\prog_dyn\prog_dyn\Źródło.cpp(131,23): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+D:\OneDrive\studia\SPD\prog_dyn\prog_dyn\Źródło.cpp(144,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  prog_dyn.vcxproj -> D:\OneDrive\studia\SPD\prog_dyn\Debug\prog_dyn.exe
