@@ -1,0 +1,7 @@
+﻿  carlierrekur.cpp
+D:\STUDIA\6sem\SPD\carlierrekur\carlierrekur\carlierrekur.cpp(526,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Trwa generowanie kodu
+  Previous IPDB not found, fall back to full compilation.
+  All 309 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Zakończono generowanie kodu
+  carlierrekur.vcxproj -> D:\STUDIA\6sem\SPD\carlierrekur\carlierrekur\Release\carlierrekur.exe
